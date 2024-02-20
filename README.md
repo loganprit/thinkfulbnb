@@ -18,7 +18,7 @@ Flexbox was instrumental in building a fluid layout that responds to various scr
 
 ## Installation
 To run Thinkfulbnb locally:
-1. Clone the repository: `git clone https://github.com/logan-prit/starter-thinkfulbnb.git`
+1. Clone the repository: `git clone https://github.com/loganprit/starter-thinkfulbnb.git`
 2. Open the `index.html` file in your web browser.
 
 ## Future Goals
