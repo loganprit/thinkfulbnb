@@ -1,7 +1,7 @@
 # Thinkfulbnb
 
 ## Introduction
-Thinkfulbnb is a mock vacation rental website inspired by platforms like Airbnb and OkCupid. It showcases a static frontend implementation with responsive design, adapting seamlessly from mobile to desktop views. The project emphasizes modern CSS layout techniques including Flexbox. Visit the live website [here](https://loganprit.github.io/starter-thinkfulbnb/).
+Thinkfulbnb is a mock vacation rental website inspired by platforms like Airbnb and OkCupid. It showcases a static frontend implementation with responsive design, adapting seamlessly from mobile to desktop views. The project emphasizes modern CSS layout techniques including Flexbox. Visit the live website [here](https://loganprit.github.io/thinkfulbnb/).
 
 ## Technologies Used
 - **HTML**: For structuring the content of the application.
